@@ -1,5 +1,5 @@
 # 7DaysOfCode
-Repositório dedicado às soluções que desenvolvi durante o desafio 7DaysOfCode da Alura relacionado a estrutura de dados.
+Repositório dedicado às soluções que desenvolvi durante o desafio 7DaysOfCode da Alura relacionado à estrutura de dados.
 
 
 ## Objetivo
