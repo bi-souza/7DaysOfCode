@@ -1,6 +1,6 @@
 # 7DaysOfCode
-Repositório dedicado às soluções que desenvolvi durante o desafio 7DaysOfCode da Alura.
-Durante 7 dias, é proposto um desafio por dia relacionado a estruturas de dados.
+Repositório dedicado às soluções que desenvolvi durante o desafio 7DaysOfCode da Alura relacionado a estrutura de dados.
+
 
 ## Objetivo
 - Praticar estruturas de dados utilizando C# .NET
